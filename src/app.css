@@ -1,6 +1,16 @@
-@import 'tailwindcss';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 ActionBar {
-  background-color: #65adf1;
+  background-color: #251353;
   color: white;
+}
+
+.gradient-purple {
+  background: linear-gradient(to bottom, #251353, #000);
+}
+
+.gradient-light-purple {
+  background: linear-gradient(to bottom, #6544b7, #251353);
 }
