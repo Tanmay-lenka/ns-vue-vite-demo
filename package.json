@@ -24,7 +24,7 @@
     "@nativescript/ios": "alpha",
     "@nativescript/tailwind": "^2.1.0",
     "@nativescript/types": "alpha",
-    "@nativescript/vite": "alpha",
+    "@nativescript/vite": "^0.0.1-alpha.7",
     "@types/node": "^22.14.0",
     "concurrently": "^9.0.1",
     "nativescript": "alpha",
