@@ -6,6 +6,9 @@ https://github.com/user-attachments/assets/5fd4f6d6-d849-42b5-9437-a4c41ed9a4d5
 
 *Prerelease features coming to NativeScript v9.*
 
+Install the prerelease cli: `npm install -g nativescript@alpha`
+
+Then setup the repo:
 ```
 npm install
 ```
